@@ -31,7 +31,7 @@
   
 
   <a href="https://www.youtube.com/@sammy34719">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/sammy34719?style=social"/></a>
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/@sammy34719?style=social"/></a>
   <a href="https://www.youtube.com/@sammy34719">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
