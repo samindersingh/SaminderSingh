@@ -38,13 +38,13 @@
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 
 
 <div align="left">
 <h2 align="left">Technologies </h2>
-
+  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
   <img src="https://github.com/user-attachments/assets/1ee26905-1d96-4f8d-8509-08f1723ad479" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
