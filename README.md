@@ -28,10 +28,13 @@
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 
 <p align="center">
-<a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
- <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[YOUR CHANNEL ID]&key=[YOUR API KEY]"/>
-</a>
+
   <a href="https://www.youtube.com/@sammy34719">
+     <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+  <a href="https://www.youtube.com/c/DevProTips">
+    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
     <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UC1f26A38C3Hi1JaskH6onwA?style=social?label=Views&amp;style=for-the-badge&amp;color=red&amp;labelColor=ce4630#"/></a> 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SaminderSingh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
