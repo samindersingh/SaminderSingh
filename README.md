@@ -47,7 +47,12 @@
 
 <div align="left">
 <h2 align="left">Technologies </h2>
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- ![attack on titan GIF](https://github.com/user-attachments/assets/603743d2-6baf-4661-89bf-51924a7fcf76) -->
+<!-- ![naruto shippuden GIF](https://github.com/user-attachments/assets/98b4c6a4-9942-4667-8ac9-8557ab229d7f) -->
+
+
+
+  <img align="right" height="150" src="https://github.com/user-attachments/assets/7c69af5c-c8e9-497a-b9bc-c002ffb4886a"  />
   <img src="https://github.com/user-attachments/assets/1ee26905-1d96-4f8d-8509-08f1723ad479" height="32" alt="javascript logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/065c8fa4-fa49-4d7d-8240-32f7cd14c948" height="27" alt="html5 logo"  />
