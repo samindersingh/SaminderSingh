@@ -8,7 +8,7 @@
 </div>
 
 ###
-![Hungry Naruto Shippuden GIF]()
+
 
 <img align="right" height="150" src="https://github.com/user-attachments/assets/80b80d91-9938-4189-a351-bd56a7aa4d84"  />
 
