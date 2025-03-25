@@ -52,7 +52,8 @@
 
 
 
-  <img align="right" height="150" src="https://tenor.com/view/grand-blue-anime-traitor-gif-21020397"  />
+
+  <img align="right" height="150" src="https://github.com/user-attachments/assets/87d492d3-6a0b-4fe0-ada1-f4d3e8237734"  />
   <img src="https://github.com/user-attachments/assets/1ee26905-1d96-4f8d-8509-08f1723ad479" height="32" alt="javascript logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/065c8fa4-fa49-4d7d-8240-32f7cd14c948" height="27" alt="html5 logo"  />
