@@ -38,9 +38,10 @@
  
   <img src="https://github.com/user-attachments/assets/3cea2e13-e1f2-4ab1-a048-c38818ad147e" height="35" alt="discord logo"  />
   <img src="https://github.com/user-attachments/assets/02c16c95-4d65-4ea7-b444-a7d1ccf679ee" height="35" alt="gmail logo"  />
- 
 
-  <img src="https://github.com/user-attachments/assets/83e74272-d6cb-4f97-a392-a738db9e83d5" height="35" alt="linkedin logo"  />
+
+
+  <img src="https://github.com/user-attachments/assets/9ab9ef20-1f23-4c7e-9118-446cd20ef11d" height="35" alt="linkedin logo"  />
 </div>
 
 ###
