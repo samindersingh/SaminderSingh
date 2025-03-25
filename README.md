@@ -56,8 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
   
   <br>
-  <img src="https://github.com/user-attachments/assets/065c8fa4-fa49-4d7d-8240-32f7cd14c948" height="32" alt="html5 logo"  />
-  <img width="12" />
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
   
   
