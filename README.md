@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/images/a4b25c79b8fe1e1165e8e740042f7127/tenor.gif"  />
 
 ###
 
@@ -43,7 +43,7 @@
 ###
 
 <br clear="both">
-<img src="https://media.tenor.com/images/a4b25c79b8fe1e1165e8e740042f7127/tenor.gif" alt="Toji Fushiguro GIF" />
+
 </body>
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
