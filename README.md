@@ -48,7 +48,7 @@
 <div align="left">
 <h2 align="left">Technologies </h2>
   <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-  <img src="https://github.com/user-attachments/assets/065c8fa4-fa49-4d7d-8240-32f7cd14c948" height="32" alt="html5 logo"  />
+  <img src="https://github.com/user-attachments/assets/065c8fa4-fa49-4d7d-8240-32f7cd14c948" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/1ee26905-1d96-4f8d-8509-08f1723ad479" height="32" alt="javascript logo"  />
   <img width="12" />
@@ -61,8 +61,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="csharp logo"  />
+  
 </div>
 
 ###
