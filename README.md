@@ -1,50 +1,53 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Samy's Profile
 
-###
+Hi there! 👋 I'm **Samy**, a passionate **MCA student** and **Aspiring DevOps Engineer** with a strong background in **cloud technologies**, **containerization**, and **automation**.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🔧 **Technologies & Tools**
 
-<img align="right" height="150" src="https://media.tenor.com/images/a4b25c79b8fe1e1165e8e740042f7127/tenor.gif"  />
+- **Languages & Scripting**: Shell & Python Scripting
+- **Configuration Management**: Ansible
+- **Cloud & Infrastructure**: AWS, Azure, Terraform, Kubernetes, Docker
+- **CI/CD Tools**: GitHub Actions, Argo CD, Jenkins, GitLab
+- **Version Control & Collaboration**: Git (GitHub, GitLab), Jira
+- **Database & Data Analysis**: MySQL, Power BI, Advanced Excel
+- **Business & Visualization Tools**: PowerPoint, Business Analysis, Customer Acquisition
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## 🛠️ **Personal Projects & Achievements**
 
-###
+### E-COMMERCE DevOps Implementation
+- Implemented **DevOps practices** such as **containerization**, **CI/CD**, and **Infrastructure as Code** using **Docker**, **EKS**, and **Terraform**.
+- Automated the creation of EKS clusters with Terraform and integrated **GitHub Actions** for CI/CD pipelines.
+- Configured **Route 53** for DNS management and secure access for external users.
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### GitHub-JIRA Automation
+- Developed an automation system with **Python** to trigger **JIRA APIs** based on **GitHub webhooks**, streamlining the creation of JIRA tickets.
 
-###
+### Stock Analysis System Web Application
+- Built a web application using **React** for tracking and analyzing stock market data.
 
-<br clear="both">
+### Movie Recommendation System
+- Developed a movie recommendation system using **TensorFlow** and **Django** to offer personalized recommendations.
 
-</body>
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+---
 
-###
+## 📈 **Certifications**
+
+- **Google Cybersecurity (Coursera)**  
+  *Completed: June 2024 - July 2024*  
+  Gained hands-on experience with **Python**, **Linux**, and **SQL** while learning to mitigate risks and protect networks using SIEM tools.
+
+---
+
+## 🎉 **Fun Fact**
+
+Here's a GIF of **Toji Fushiguro** from *Jujutsu Kaisen* to make your day better!
+
+![Toji Fushiguro GIF](https://media.tenor.com/images/a4b25c79b8fe1e1165e8e740042f7127/tenor.gif)
+
+---
+
+Feel free to reach out if you'd like to connect or collaborate! 💬
