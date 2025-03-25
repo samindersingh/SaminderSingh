@@ -53,7 +53,7 @@
 
 
 
-  <img align="right" height="150" src="https://github.com/user-attachments/assets/e876a3c3-bb20-4be2-8b9b-7491fe3ced07"  />
+  <img align="right" height="130" src="https://github.com/user-attachments/assets/e876a3c3-bb20-4be2-8b9b-7491fe3ced07"  />
   <img src="https://github.com/user-attachments/assets/1ee26905-1d96-4f8d-8509-08f1723ad479" height="32" alt="javascript logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/065c8fa4-fa49-4d7d-8240-32f7cd14c948" height="27" alt="html5 logo"  />
