@@ -26,6 +26,7 @@
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<!--
 <p align="center">
   <a href="https://www.youtube.com/@sammy34719">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
@@ -41,8 +42,34 @@
 
 
 
+-->
 
+<p align="center">
+  <!-- YouTube Subscribers -->
+  <a href="https://www.youtube.com/@sammy34719">
+    <img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php?username=sammy34719"/>
+  </a>
 
+  <!-- YouTube Views -->
+  <a href="https://www.youtube.com/@sammy34719">
+    <img alt="YouTube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php?username=sammy34719"/>
+  </a> 
+
+  <!-- GitHub Total Stars -->
+  <a href="https://github.com/SaminderSingh?tab=repositories&sort=stargazers">
+    <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SaminderSingh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+
+  <!-- GitHub Followers -->
+  <a href="https://github.com/SaminderSingh?tab=followers">
+    <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/SaminderSingh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+
+  <!-- GitHub Profile Views -->
+  <a href="https://github.com/SaminderSingh">
+    <img alt="Profile views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=SaminderSingh&label=Profile%20Views&color=blue&style=for-the-badge"/>
+  </a>
+</p>
 
 
 <div align="left">
