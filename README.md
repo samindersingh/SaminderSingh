@@ -43,7 +43,8 @@
 ###
 
 <br clear="both">
-<div class="tenor-gif-embed" data-postid="6497947853455446984" data-share-method="host" data-aspect-ratio="0.947791" data-width="100%"><a href="https://tenor.com/view/toji-fushiguro-gif-6497947853455446984">Toji Fushiguro GIF</a>from <a href="https://tenor.com/search/toji+fushiguro-gifs">Toji Fushiguro GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media.tenor.com/images/a4b25c79b8fe1e1165e8e740042f7127/tenor.gif" alt="Toji Fushiguro GIF" />
+</body>
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
