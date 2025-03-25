@@ -42,7 +42,7 @@
 
 
 
-<div align="left">
+<div align="center">
 
 
   <img src="https://github.com/user-attachments/assets/1ee26905-1d96-4f8d-8509-08f1723ad479" height="30" alt="javascript logo"  />
