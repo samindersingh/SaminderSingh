@@ -28,9 +28,9 @@
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 
 <p align="center">
-   
+  
   <a href="https://www.youtube.com/@sammy34719">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
+    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UC1f26A38C3Hi1JaskH6onwA?style=social"/></a> 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SaminderSingh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/SaminderSingh?tab=followers">
