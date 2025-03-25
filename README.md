@@ -56,7 +56,8 @@
 
 
 
-  <img align="right" height="130" src="https://github.com/user-attachments/assets/c074061d-72a4-43a1-87de-7c49957c6553"  />
+
+  <img align="right" height="130" src="https://github.com/user-attachments/assets/21656277-1914-4a84-ba97-51f567e8df95"  />
   <img src="https://github.com/user-attachments/assets/1ee26905-1d96-4f8d-8509-08f1723ad479" height="32" alt="javascript logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/065c8fa4-fa49-4d7d-8240-32f7cd14c948" height="27" alt="html5 logo"  />
