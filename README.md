@@ -42,12 +42,13 @@
 
 
 
+
 <div align="left">
 <h2 align="left">Technologies </h2>
   <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
   <img src="https://github.com/user-attachments/assets/1ee26905-1d96-4f8d-8509-08f1723ad479" height="32" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript logo"  />
+  <img src="https://github.com/user-attachments/assets/50638b8e-65ed-4a1a-9ba8-3923f86526c8" height="32" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
   <img width="12" />
