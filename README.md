@@ -28,7 +28,18 @@
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 
 <p align="center">
-  
+   <a href="https://www.youtube.com/@sammy34719">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/@sammy34719?style=social"/></a>
+  <a href="https://www.youtube.com/@sammy34719">
+    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SaminderSingh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/SaminderSingh?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SaminderSingh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <a href="https://github.com/SaminderSingh">
+    <img alt="Profile views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=SaminderSingh&label=Profile%20Views&color=blue&style=for-the-badge"/>
+  </a>
+</p>
 
  
 
