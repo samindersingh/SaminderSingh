@@ -28,7 +28,9 @@
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 
 <p align="center">
-
+<a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
+ <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[YOUR CHANNEL ID]&key=[YOUR API KEY]"/>
+</a>
   <a href="https://www.youtube.com/@sammy34719">
     <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UC1f26A38C3Hi1JaskH6onwA?style=social?label=Views&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
