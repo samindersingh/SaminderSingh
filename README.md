@@ -51,7 +51,7 @@
 
 
 <div align="left">
-<h2 align="left">Technologies </h2>
+<h2 align="left">Tech Stack 🖥️</h2>
 <!-- ![attack on titan GIF](https://github.com/user-attachments/assets/603743d2-6baf-4661-89bf-51924a7fcf76) -->
 <!-- ![naruto shippuden GIF](https://github.com/user-attachments/assets/98b4c6a4-9942-4667-8ac9-8557ab229d7f) -->
 
