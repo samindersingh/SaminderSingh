@@ -51,7 +51,7 @@
 <!-- ![naruto shippuden GIF](https://github.com/user-attachments/assets/98b4c6a4-9942-4667-8ac9-8557ab229d7f) -->
 
 
-<div class="tenor-gif-embed" data-postid="21020397" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/grand-blue-anime-traitor-gif-21020397">Grand Blue Anime GIF</a>from <a href="https://tenor.com/search/grand+blue-gifs">Grand Blue GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
   <img align="right" height="150" src="https://tenor.com/view/grand-blue-anime-traitor-gif-21020397"  />
   <img src="https://github.com/user-attachments/assets/1ee26905-1d96-4f8d-8509-08f1723ad479" height="32" alt="javascript logo"  />
   <img width="12" />
