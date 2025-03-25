@@ -30,7 +30,7 @@
 <p align="center">
 
   <a href="https://www.youtube.com/@sammy34719">
-     <a href="https://www.youtube.com/c/sammy34719?sub_confirmation=1">
+     <a href="https://www.youtube.com/@sammy34719">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
   <a href="https://www.youtube.com/c/sammy34719">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
