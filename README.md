@@ -43,6 +43,7 @@
 
 
 
+
 <div align="left">
 <h2 align="left">Technologies </h2>
   <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
@@ -50,7 +51,7 @@
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/50638b8e-65ed-4a1a-9ba8-3923f86526c8" height="32" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
+  <img src="https://github.com/user-attachments/assets/b56b5fea-e40d-4edd-91d9-1e20208ed78c" height="32" alt="react logo"  />
   <img width="12" />
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
