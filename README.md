@@ -2,7 +2,6 @@
 # 👋 Hi, I'm Saminder Singh!
 👩🏻‍💻 DevOps Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied MCA at Chandigarh University, India<br/>
-🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/@sammy34719)<br/>
 🌷 #learninginpublic on [Linkedin](https://www.linkedin.com/in/saminder-singh-975166285/)<br/>
 💭 Currently learning about DevOps and its tools!<br/>
 ###
