@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Saminder Singh!<br/>
-📧  Contact: work@saminder.com<br/>
+📧  Contact: me@saminder.com<br/>
 👩🏻‍💻 DevOps Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied MCA at Chandigarh University, India<br/>
 🌷 #learninginpublic on [Linkedin](https://www.linkedin.com/in/saminder-singh-975166285/)<br/>
